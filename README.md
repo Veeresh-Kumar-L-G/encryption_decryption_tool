@@ -31,6 +31,6 @@ EncryptionTool/
 │   ├── caesar.py
 │   ├── vigenere.py
 │   ├── xor_cipher.py
-│── ui.py          # Tkinter-based UI
-│── main.py        # Entry point of the program
+│── ui.py          
+│── main.py       
 │── README.md
